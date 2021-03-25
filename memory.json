@@ -1,0 +1,18 @@
+{
+
+    "welcome":{
+        "boot":["Boot-up complete.","Start-up successful","System up and running","System online","Your personal assistant is online","Personal assistant boot up sequence complete."],
+        "salute":["Hello","Hi","Greetings!","Mhm"],
+        "home":["Welcome home","Good to see you again","Just when I was wondering when you will be coming","Nice having you here again"],
+        "morning":["Good Morning sir!", "Good Morning! Another great day!"],
+        "afternoon":["Good Afternoon sir!", "What a nice afternoon!"],
+        "evening":["Good evening sir!", "Good Evening! Don't stay up to late!"]
+    },
+    "identity":{
+        "name":"astra",
+        "version":"0.1",
+        "nickname":"none"
+    }
+
+
+}
